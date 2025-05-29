@@ -20,4 +20,4 @@ WORKDIR /app
 EXPOSE 3000
 
 # 6) Start your server (adjust if you have a production start script)
-CMD ["npm", "run", "dev"]
+CMD ["npm", "run", "start"]
