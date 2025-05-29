@@ -1,0 +1,43 @@
+web
+├── frontend
+│   ├── App.jsx
+│   ├── README.md
+│   ├── Routes.jsx
+│   ├── assets
+│   │   ├── empty-state.svg
+│   │   ├── home-trophy.png
+│   │   └── index.js
+│   ├── components
+│   │   ├── ProductsCard.jsx
+│   │   ├── index.js
+│   │   └── providers
+│   │       ├── PolarisProvider.jsx
+│   │       ├── QueryProvider.jsx
+│   │       └── index.js
+│   ├── dev_embed.js
+│   ├── index.html
+│   ├── index.jsx
+│   ├── locales
+│   │   ├── de.json
+│   │   ├── en.json
+│   │   └── fr.json
+│   ├── package.json
+│   ├── pages
+│   │   ├── ExitIframe.jsx
+│   │   ├── NotFound.jsx
+│   │   ├── index.jsx
+│   │   └── pagename.jsx
+│   ├── shopify.web.toml
+│   ├── translation.yml
+│   ├── utils
+│   │   └── i18nUtils.js
+│   └── vite.config.js
+├── index.js
+├── package.json
+├── privacy.js
+├── product-creator.js
+├── shopify.js
+├── shopify.web.toml
+└── webTree
+
+8 directories, 33 files

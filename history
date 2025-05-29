@@ -1,0 +1,1014 @@
+  386  npm run shopify app generate extension
+  387  npm install
+  388  ls -ltr
+  389  tree
+  390  sduo apt install tree
+  391  sudo apt install tree
+  392  clear
+  393  tree
+  394  tree >> apex-store-locator.txt
+  395  ls
+  396  npm install koa koa-router koa-static koa-session dotenv @shopify/koa-shopify-auth @shopify/shopify-api
+  397  npm install
+  398  npm install koa koa-router koa-static koa-session dotenv @shopify/koa-shopify-auth @shopify/shopify-api
+  399  npm list koa
+  400  npm run dev
+  401  npm install -g @shopify/cli@latest
+  402  npm run dev
+  403  shopify app deploy
+  404  npm run dev
+  405  shopify app deploy
+  406  npm run dev
+  407  shopify app deploy
+  408  npm run dev
+  409  shopify app build
+  410  ccd web/frontend/assets/
+  411  cd web/frontend/assets/
+  412  cd ..
+  413  target="extensions/store-locator/assets"
+  414  target
+  415  cat target
+  416  mkdir -p extensions/store-locator/assets
+  417  cd extensions/store-locator/assets/
+  418  ls
+  419  curl -L https://unpkg.com/leaflet/dist/leaflet.css 
+  420  curl -L https://unpkg.com/leaflet/dist/leaflet.css -o .
+  421  ls
+  422  cd ..
+  423  curl -L https://unpkg.com/leaflet/dist/leaflet.css -o ./assets/
+  424  curl -L https://unpkg.com/leaflet/dist/leaflet.css -o ./assets/leafjst.css
+  425  curl -L https://unpkg.com/leaflet/dist/leaflet.js  -o ./assets/leafjst.js
+  426  shopify app build
+  427  export SHOPIFY_API_KEY=your_api_key_here
+  428  npm run build
+  429  shopify app deploy
+  430  export SHOPIFY_API_KEY=your_api_key_here
+  431  shopify app deploy
+  432  export SHOPIFY_API_KEY=f143e38493e1e38bd6d4000a6205c81e
+  433  npm run build
+  434  shopify app deploy
+  435  npm run build
+  436  shopify app deploy
+  437  shopify app dev
+  438  cd ..
+  439  shopify app dev
+  440  shopify app generate extension
+  441  shopify login --store apexai.myshopify.com
+  442  cd ..
+  443  clera
+  444  ls
+  445  rm -rf apex-store-locator/
+  446  ls
+  447  rm -rf apex-store-locator/
+  448  ls
+  449  clear
+  450  npm @shopify/cli@latest
+  451  npm install  @shopify/cli@latest
+  452  clear
+  453  npm install -g @shopify/cli@latest
+  454  npm init @shopify/app@latest
+  455  cd apex-store-locator/
+  456  shopify app generate extension
+  457  ls
+  458  ls server.*
+  459  touch server.js
+  460  edit server.js 
+  461  npm install koa koa-router koa-static koa-session dotenv @shopify/koa-shopify-auth @shopify/shopify-api
+  462  npm list koa
+  463  ls .env
+  464  mkdir web
+  465  cd web/
+  466  touch server.js
+  467  ls
+  468  mkdir frontend
+  469  cd frontend/
+  470  touch package.json
+  471  cd ..
+  472  npm install
+  473  npm run dev
+  474  shopify login --store your-dev-store.myshopify.com
+  475  npm run dev
+  476  npm run build
+  477  npm run dev
+  478  npm run build
+  479  clear
+  480  cd ..
+  481  rm -rf apex-store-locator/
+  482  ls
+  483  rm -rf node_modules/
+  484  rm -rf package
+  485  ls
+  486  rm -rf package.json 
+  487  rm -rf package-lock.json 
+  488  ls
+  489  clera
+  490  clear
+  491  npm install -g @shopify/cli@3.79.1  
+  492  shopify login --store apexai.myshopify.com  
+  493  shopify app init apex-store-locator --template=remix  
+  494  shopify app init --template=node --name=store-locator
+  495  shopify app init 
+  496  cd apex-store-locator/
+  497  shopify app generate extension  
+  498  npm install
+  499  cp .env.example .env  
+  500  npx prisma migrate dev --name init
+  501  shopify app dev  
+  502  shopify app run
+  503  npm app dev
+  504  npm run dev
+  505  shopify app dev  
+  506  cd ..
+  507  ls
+  508  cd apex-store-locator/
+  509  shopify app run
+  510  shopify auth logout
+  511  shopify auth login --store apexai.myshopify.com
+  512  shopify auth logout
+  513  shopify app run
+  514  shopify app dev --reset
+  515  shopify app run
+  516  shopify whoami
+  517  shopify app info
+  518  shopify app dev  
+  519  shopify app dev
+  520  cd ..
+  521  ls
+  522  rm -rf apex-store-locator/
+  523  ls
+  524  cd ..
+  525  ls
+  526  cd store-locator/
+  527  ls
+  528  cd store-locator/
+  529  ls
+  530  shopify app dev --store apexai.myshopify.com
+  531  shopify app create node   --name apex-store-locator   --template=node
+  532  shopify app 
+  533  shopify app init node --name apex-store-locator --template=node
+  534  shopify app init --name apex-store-locator --template=node
+  535  cd apex-store-locator/
+  536  shopify app dev
+  537  shopify app deploy
+  538  shopify app dev
+  539  shopify app deploy
+  540  shopify app dev
+  541  shopify app deploy
+  542  shopify app dev
+  543  cd web/frontend/
+  544  npm install papaparse --save
+  545  shopify app dev
+  546  cd ..
+  547  shopify app dev
+  548  shopify app deploy
+  549  shopify app dev
+  550  clear
+  551  lso
+  552  ls
+  553  cd ..
+  554  ls
+  555  la
+  556  ls -ltr
+  557  rm -rf apex-store-locator
+  558  rm apex-store-locator.zip
+  559  ls
+  560  rm apex-store-locator.zip\:Zone.Identifier 
+  561  ls
+  562  clear
+  563  npm init @shopify/app@latest store-locator
+  564  ls
+  565  clear
+  566  ls
+  567  npm init @shopify/app@latest store-locator
+  568  clear
+  569  ls
+  570  ls -ltr
+  571  npm init @shopify/app@latest apex-store-locator
+  572  cat /home/hasfour/.npm/_logs/2025-05-14T21_50_43_172Z-debug-0.log
+  573  shopify app init --template=node --name=apex-store-locator
+  574  cd apex-store-locator/
+  575  shopify app generate extension
+  576  shopify app dev
+  577  npm run dev
+  578  cd server
+  579  npm run dev
+  580  cd ..
+  581  npm run dev
+  582  npm install
+  583  npm run dev
+  584  shopify app dev
+  585  cd web/frontend/
+  586  npm install
+  587  npm audit fix --force
+  588  cd ..
+  589  npm install
+  590  shopify app dev
+  591  npm install react react-dom @shopify/polaris @shopify/app-bridge-react react-router-dom papaparse
+  592  npm install -D vite @vitejs/plugin-react
+  593  cd web/frontend/
+  594  npm install papaparse
+  595  clear
+  596  npm install papaparse
+  597  npm uninstall react react-dom
+  598  sudo npm uninstall react react-dom
+  599  npm uninstall react react-dom
+  600  npm install react@^18.3.1 react-dom@^18.3.1
+  601  cd ..
+  602  npm uninstall react react-dom
+  603  npm install react@^18.3.1 react-dom@^18.3.1
+  604  npm install papaparse
+  605  npm run dev
+  606  cd web/frontend/
+  607  npm run dev
+  608  cd ..
+  609  npm app dev
+  610  npm run dev
+  611  shopify app dev
+  612  clear
+  613  cd ..
+  614  npm install prisma --save-dev
+  615  npm install @prisma/client
+  616  npx prisma init
+  617  npm run dev
+  618  npm run 
+  619  clear
+  620  cd ..
+  621  shopify app dev
+  622  cd store-locator/apex-store-locator/
+  623  shopify app dev
+  624  shopify run build
+  625  npm run deploy
+  626  shopify extension push --extension=store-locator
+  627  shopify extension push 
+  628  npm run deploy
+  629  npm run prisma migrate dev -- --name add-qrcode-table
+  630  npm run prisma studio
+  631  cd ..
+  632  clear
+  633  cd apex-store-locator/
+  634  hopify app dev
+  635  shopify app dev
+  636  shopify app open --path /apps/store-locator
+  637  wpd
+  638  pwd
+  639  cd ..
+  640  clear
+  641  cd apex-store-locator/
+  642  npx prisma db seed --preview-feature
+  643  npx prisma db seed
+  644  node prisma/seed.js
+  645  npx prisma generate
+  646  node prisma/seed.js
+  647  npx prisma migrate dev --name init
+  648  node prisma/seed.js
+  649  sudo apt install cloudflared
+  650  curl -fsSL https://pkg.cloudflare.com/cloudflare-main.gpg | sudo tee /etc/apt/trusted.gpg.d/cloudflare.asc > /dev/null
+  651  echo 'deb [signed-by=/etc/apt/trusted.gpg.d/cloudflare.asc] https://pkg.cloudflare.com/cloudflared jammy main' | sudo tee /etc/apt/sources.list.d/cloudflared.list
+  652  sudo apt update
+  653  sudo apt install cloudflared
+  654  sudo rm /etc/apt/sources.list.d/cloudflared.list
+  655  sudo rm /etc/apt/trusted.gpg.d/cloudflare.asc
+  656  sudo apt update
+  657  sudo apt install -y gnupg curl
+  658  sudo mkdir -p /etc/apt/keyrings
+  659  curl -fsSL https://pkg.cloudflare.com/cloudflare-main.gpg | sudo tee /etc/apt/keyrings/cloudflare-main.gpg > /dev/null
+  660  .
+  661  sudo mkdir -p /etc/apt/keyrings
+  662  curl -fsSL https://pkg.cloudflare.com/cloudflare-main.gpg | sudo tee /etc/apt/keyrings/cloudflare-main.gpg > /dev/null
+  663  echo 'deb [signed-by=/etc/apt/keyrings/cloudflare-main.gpg] https://pkg.cloudflare.com/cloudflared jammy main' | sudo tee /etc/apt/sources.list.d/cloudflared.list
+  664  sudo apt update
+  665  sudo apt install cloudflared
+  666  cloudflared --version
+  667  cloudflared tunnel --url http://localhost:3000
+  668  cd store-locator/apex-store-locator/
+  669  npm install --save-dev concurrently
+  670  npm run dev:with-tunnel
+  671  clear
+  672  npm run dev:with-tunnel
+  673  cat ~/.npmrc
+  674  touch cat ~/.npmrc
+  675  ls cat 
+  676  rm cat 
+  677  cd ~
+  678  ls
+  679  cat ~/.npmrc
+  680  vi ~/.npmrc
+  681  cat ~/.yarnrc.yml
+  682  vi ~/.yarnrc.yml
+  683  npm run dev:with-tunnel
+  684  cd ~
+  685  ls
+  686  cd apexai/store-locator/apex-store-locator/
+  687  npm run dev:with-tunnel
+  688  rm scripts/update-env-from-tunnel.js
+  689  vi scripts/update-env-from-tunnel.js
+  690  nano ~/.npmrc
+  691  npm run dev:with-tunnel
+  692  nano ~/.npmrc
+  693  npm run dev:with-tunnel
+  694  npm install --save-dev cross-env
+  695  npm run dev:with-tunnel
+  696  npm install --save-dev cross-env
+  697  npm run dev:with-tunnel
+  698  npm run dev
+  699  pkill -f node
+  700  pkill -f cloudflared
+  701  npm run dev:with-tunnel
+  702  cloudflared login
+  703  cloudflared tunnel create apex-store-locator
+  704  cloudflared login
+  705  npm run dev
+  706  cloudflared tunnel run apex-store-locator
+  707  cloudflared login
+  708  ls
+  709  docker
+  710  sudo apt install docker
+  711  sudo apt install docker.io
+  712  ls
+  713  docker run -d   --name apex-postgres   -e POSTGRES_USER=shopify   -e POSTGRES_PASSWORD=secretpw   -e POSTGRES_DB=my_store_locator   -p 5432:5432   postgres:14
+  714  sudo docker run -d   --name apex-postgres   -e POSTGRES_USER=shopify   -e POSTGRES_PASSWORD=secretpw   -e POSTGRES_DB=my_store_locator   -p 5432:5432   postgres:14
+  715  npm install -g ngrok
+  716  shopify app dev
+  717  clear
+  718  cd store-locator/
+  719  ls
+  720  cd apex-store-locator/
+  721  ls
+  722  clear
+  723  npx prisma migrate dev --name init
+  724  clear
+  725  npm install @shopify/polaris
+  726  ls
+  727  cd ..
+  728  ls
+  729  cd apex-store-locator/
+  730  ls
+  731  clear
+  732  mkdir prisma
+  733  touch src/server/routes/storeRoutes.ts
+  734  mkdir src/server/routes/
+  735  mkdir src
+  736  cd src/
+  737  mkdir server
+  738  cd server/
+  739  touch storeRoutes.ts
+  740  cd ..
+  741  ls
+  742  npm install pg formidable csv-parse
+  743  psql
+  744  Create
+  745  psql
+  746  sudo apt install postgresql-client-common
+  747  psql
+  748  docker ps
+  749  sudo docker ps
+  750  docker exec -it a7fb94989fdc 
+  751  docker exec -it a7fb94989fdc  psql -U postgres -d shopify
+  752  sudo docker exec -it a7fb94989fdc  psql -U postgres -d shopify
+  753  sudo docker exec -it a7fb94989fdc  psql -U localhost -d shopify
+  754  sudo docker exec -it a7fb94989fdc  psql -U postgresql://shopify:SecretApex@localhost:5432/apex_store_locator
+  755  sudo docker exec -it a7fb94989fdc  psql -U postgresql://shopify:SecrclearetApex@localhost:5432/apex_store_locator
+  756  clear
+  757  sudo psql "postgresql://shopify:SecretApex@localhost:5432/apex_store_locator"   -c "CREATE TABLE stores (
+  758          id          SERIAL PRIMARY KEY,
+  759          name        TEXT    NOT NULL,
+  760          address     TEXT    NOT NULL,
+  761          latitude    DOUBLE PRECISION,
+  762          longitude   DOUBLE PRECISION,
+  763          phone       TEXT,
+  764          created_at  TIMESTAMP WITH TIME ZONE DEFAULT now(),
+  765          updated_at  TIMESTAMP WITH TIME ZONE DEFAULT now()
+  766        );"
+  767  sudo apt-get update && sudo apt-get install -y postgresql-client && psql "postgresql://shopify:SecretApex@localhost:5432/apex_store_locator"   -c "CREATE TABLE stores (
+  768          id          SERIAL PRIMARY KEY,
+  769          name        TEXT    NOT NULL,
+  770          address     TEXT    NOT NULL,
+  771          latitude    DOUBLE PRECISION,
+  772          longitude   DOUBLE PRECISION,
+  773          phone       TEXT,
+  774          created_at  TIMESTAMP WITH TIME ZONE DEFAULT now(),
+  775          updated_at  TIMESTAMP WITH TIME ZONE DEFAULT now()
+  776        );"
+  777  cd pages
+  778  mkdir pages/api
+  779  mkdir pages
+  780  cd pages/
+  781  mkdir api
+  782  cd api/
+  783  makdir stores
+  784  mkdir stores
+  785  cd stores/
+  786  touch index.js
+  787  cd ..
+  788  ls
+  789  mkdir server
+  790  ls
+  791  cd server/
+  792  npm install pg koa-bodyparser @koa/router
+  793  ls
+  794  cd ..
+  795  ls
+  796  cd server/
+  797  ls
+  798  cd ..
+  799  npm install @prisma/client
+  800  ls
+  801  cd prisma/
+  802  ls
+  803  cd ..
+  804  cd server/
+  805  ls
+  806  npm run dev
+  807  cd ..
+  808  npm run dev
+  809  shopify app dev  
+  810  cd web/frontend/
+  811  npm ls react
+  812  npm install papaparse --save
+  813  npm run dev
+  814  clear
+  815  cd ..
+  816  rm -rf apex-store-locator
+  817  npm init @shopify/app@latest apex-store-locator
+  818  shopify app create node   --name apex-store-locator   --template=node
+  819  shopify app init --template=node --name=apex-store-locator
+  820  cd apex-store-locator/
+  821  shopify app generate extension
+  822  shopify app dev
+  823  shopify app dev --backend-port=3000 --frontend-port=5173
+  824  node index.js
+  825  shopify app dev
+  826  import { LegacyCard as Card, AlphaCard } from '@shopify/polaris';
+  827  shopify app dev
+  828  cd ..
+  829  cd store-locator/apex-store-locator/
+  830  shopify extension list
+  831  shopify app extension list
+  832  shopify extension list
+  833  shopify app generate extension --type=theme --name=store-locator
+  834  shopify app generate extension --template=theme --name=store-locator
+  835  shopify extension create theme_app_extension --name=store-locator
+  836  shopify app generate extension
+  837  curl https://localhost:8081
+  838  curl https://localhost:3001
+  839  curl https://localhost:3000
+  840  shopify run dev
+  841  clear
+  842  cd ..
+  843  ls
+  844  shopify app create remix --name apex-store-locator
+  845  shopify login --store your-dev-store.myshopify.com
+  846  shopify app init --name apex-store-locator  
+  847  cd apex-store-locator/
+  848  npm install
+  849  npm run dev
+  850  shopify app deploy
+  851  npm run dev
+  852  npx prisma migrate dev --name init
+  853  cd mkdir -p src/lib
+  854  mkdir src
+  855  cd src/
+  856  mkdir lib
+  857  cd lib/
+  858  touch db.server.ts
+  859  npm install react-leaflet leaflet
+  860  cd ..
+  861  npm install react-leaflet leaflet
+  862  npm install react-leaflet@^4 leaflet
+  863  cd app/
+  864  ls
+  865  tree
+  866  cd .
+  867  cd..
+  868  cd ..
+  869  npx prisma generate
+  870  npx prisma migrate dev --name init
+  871  ls
+  872  cd src/
+  873  ls
+  874  cd ..
+  875  rm -rf src/
+  876  ls
+  877  find leaflet.css
+  878  npm install react-leaflet@^4 leaflet
+  879  ls
+  880  mkdir public
+  881  cp node_modules/leaflet/dist/leaflet.css public/leaflet.css
+  882  cd public/
+  883  ls
+  884  cat leaflet.css 
+  885  shopify app dev
+  886  cd ..
+  887  ls
+  888  clear
+  889  shopify app dev
+  890  npx prisma generate
+  891  npx prisma migrate dev --name add_session_table
+  892  npx prisma generate
+  893  npx prisma migrate dev --name add_session_table
+  894  shopify app dev
+  895  npx prisma generate
+  896  npx prisma migrate dev --name add_session_table
+  897  shopify app dev
+  898  npx prisma generate
+  899  npx prisma migrate dev --name add_session_table
+  900  shopify app dev
+  901  npx prisma generate
+  902  npx prisma migrate dev --name add_session_table
+  903  shopify app dev
+  904  npx prisma generate
+  905  npx prisma migrate dev --name add_session_table
+  906  shopify app dev
+  907  cd ..
+  908  cd apex-store-locator/
+  909  cd app/
+  910  ls
+  911  tree
+  912  cd ..
+  913  shopify app dev
+  914  npm install @shopify/app-bridge
+  915  shopify app dev
+  916  npx prisma generate
+  917  npx prisma migrate dev --name add_session_table
+  918  shopify app dev
+  919  clear
+  920  shopify app dev
+  921  clear
+  922  shopify app dev
+  923  clear
+  924  shopify app dev
+  925  cd app 
+  926  cd routes/
+  927  ls
+  928  tree
+  929  cd ..
+  930  shopify app dev
+  931  cd app/routes/
+  932  ls
+  933  tree
+  934  shopify app dev
+  935  cd..
+  936  cd ..
+  937  shopify app dev
+  938  cd ..
+  939  clear
+  940  ls
+  941  rm -rf apex-store-locator/
+  942  clear
+  943  shopify app create
+  944  shopify app init
+  945  cd apex-store-locator/
+  946  npm install prisma --save-dev
+  947  npm install @prisma/client sqlite3
+  948  npx prisma init --datasource-provider sqlite
+  949  npx prisma generate
+  950  npx prisma migrate dev --name init
+  951  curl -o public/hello.png https://via.placeholder.com/600x400.png?text=apex-store-locator
+  952  curl -o public/hello.png https://via.placeholder.com/600x400.png?text=Hello+Shopify
+  953  curl -L -o public/hello.png https://placehold.co/600x400.png?text=Hello+Shopify
+  954  npm install @shopify/polaris react react-dom
+  955  cd app/routes/
+  956  touch hello.jsx
+  957  vscode hello.jsx 
+  958  code hello.jsx 
+  959  cd ..
+  960  cd..
+  961  cler
+  962  clear
+  963  npm run dev
+  964  cd ..
+  965  clear
+  966  npm run dev
+  967  shopify app dev
+  968  npm install dotenv
+  969  npm install --save-dev dotenv-cli
+  970  ls
+  971  mkdir scripts
+  972  cd scripts/
+  973  touch update-env-from-tunnel.js
+  974  cd ..
+  975  npm install --save-dev dotenv-cli
+  976  cloudflared tunnel run apex-store-locator
+  977  ls ~/.cloudflared/cert.pem
+  978  cloudflared login --url http://localhost
+  979  touch ~/.cloudflared/config.yml
+  980  vi ~/.cloudflared/config.yml
+  981  cloudflared login --url http://localhost
+  982  cloudflared tunnel create apex-store-locator
+  983  cloudflared tunnel run apex-store-locator
+  984  cloudflared tunnel create apex-store-locator
+  985  cloudflared login --url http://localhost
+  986  cloudflared login
+  987  clear
+  988  cd ..
+  989  ls
+  990  clear
+  991  shopify app create
+  992  shopify app init
+  993  cd apex-store-locator/
+  994  shopify app dev
+  995  shopify organizations list
+  996  npm install prisma --save-dev
+  997  npm install @prisma/client
+  998  npx prisma init
+  999  npx prisma migrate dev --name init
+ 1000  npx prisma generate
+ 1001  vi app/routes/hello.jsx
+ 1002  vi .env
+ 1003  git init
+ 1004  git add .
+ 1005  git commit -m "Initial commit"
+ 1006  git add .
+ 1007  git commit -m "Initial commit"
+ 1008  gh repo create apex-store-locator --public --source=. --remote=origin --push
+ 1009  sudo apt  install g
+ 1010  sudo apt  install gh
+ 1011  gh repo create apex-store-locator --public --source=. --remote=origin --push
+ 1012  gh auth login
+ 1013  git push
+ 1014  gh repo create apex-store-locator --public --source=. --remote=origin --push
+ 1015  git add .
+ 1016  git commit -m "fix: use relative imports instead of ~ for Render"
+ 1017  git push
+ 1018  vi app/routes/dashboard.jsx
+ 1019  vi users/new.jsx
+ 1020  mkdir users
+ 1021  vi users/new.jsx
+ 1022  vi app/routes/users.new.jsx
+ 1023  vi app/routes/webhooks.app.uninstalled.jsx
+ 1024  npx prisma migrate reset
+ 1025  rm -rf prisma/migrations/20240530213853_create_session_table
+ 1026  npx prisma migrate reset
+ 1027  rm -rf prisma/migrations
+ 1028  npx prisma migrate dev --name init
+ 1029  rm -rf prisma/migrations
+ 1030  npx prisma db reset   
+ 1031  npx prisma migrate dev --name init
+ 1032  prisma migrate reset
+ 1033  npx prisma migrate reset
+ 1034  npx prisma migrate dev --name init
+ 1035  git add .
+ 1036  git commit -m "Add dashboard, users form, webhook handler, iframe guard"
+ 1037  git push
+ 1038  git add app/routes/webhooks.app.uninstalled.jsx
+ 1039  git commit -m "fix: correct import path for shopify.server in webhook route"
+ 1040  git push
+ 1041  git add app/routes/webhooks.app.uninstalled.jsx
+ 1042  git commit -m "fix: avoid bundling shopify.server in webhook by using dynamic import"
+ 1043  git push
+ 1044  git add app/routes/webhooks.app.uninstalled.jsx
+ 1045  git commit -m "fix: fully remove top-level shopify.server import from webhook"
+ 1046  git push
+ 1047  git add app/routes/webhooks.app.uninstalled.jsx
+ 1048  git commit -m "fix: correct import path for shopify.server in webhook route"
+ 1049  git push
+ 1050  cd store-locator/apex-store-locator/
+ 1051  cloudflared tunnel login --url http://localhost
+ 1052  ls ~/.cloudflared/cert.pem
+ 1053  cloudflared tunnel --no-autoupdate --url http://localhost:3000
+ 1054  cloudflared tunnel --no-autoupdate --url http://localhost:3000 --config ""
+ 1055  clear
+ 1056  cloudflared tunnel --no-autoupdate --url http://localhost:3000 --config ""
+ 1057  npm run dev
+ 1058  ssh -R 80:localhost:3000 nokey@localhost.run
+ 1059  clear
+ 1060  ls
+ 1061  git init
+ 1062  git remote add origin https://github.com/asfour/apex-store-locator.git
+ 1063  git add .
+ 1064  git commit -m "Initial commit"
+ 1065  git config --global user.email "asfourh@outlook.com"
+ 1066  git config --global user.name "asfour"
+ 1067  git commit -m "Initial commit"
+ 1068  git push -u origin main
+ 1069  git remote add origin https://github.com/asfour/apex-store-locator.git
+ 1070  git branch -M main
+ 1071  git push -u origin main
+ 1072  git commit -m "Initial commit"
+ 1073  git push -u origin main
+ 1074  touch render.yaml
+ 1075  vi render.yaml 
+ 1076  npx prisma generate
+ 1077  npx prisma migrate dev --name init
+ 1078  git add prisma/dev.db
+ 1079  git commit -m "add sqlite db"
+ 1080  git add .
+ 1081  git commit -m "add sqlite db"
+ 1082  nano app/routes/app._index.jsx
+ 1083  git add .
+ 1084  git commit -m "fix: use server export for authenticate in Render deploy"
+ 1085  git push
+ 1086  git add .
+ 1087  git commit -m "remove dup allowedHosts in vite"
+ 1088  git push
+ 1089  cd app/
+ 1090  tree
+ 1091  cd ..
+ 1092  nano app/shopify.server.js 
+ 1093  git add .
+ 1094  git commit -m "fix: safe session access for production using shopify.server.js"
+ 1095  git push
+ 1096  git add .
+ 1097  git commit "fix vite"
+ 1098  git commit -m "fix vite"
+ 1099  git push
+ 1100  git add .
+ 1101  git commit -m "fix vite 1"
+ 1102  git push
+ 1103  git add .
+ 1104  git commit -m "fix vite 1"
+ 1105  git push
+ 1106  git add .
+ 1107  git commit -m "fixed authenticate"
+ 1108  git push
+ 1109  git add .
+ 1110  git commit -m "update"
+ 1111  git push
+ 1112  cd ..
+ 1113  rm -rf apex-store-locator/
+ 1114  clear
+ 1115  cd ~
+ 1116  ls
+ 1117  mkdir website
+ 1118  ls
+ 1119  mkdir git
+ 1120  cd git/
+ 1121  cd ..
+ 1122  ls
+ 1123  rmdir git
+ 1124  cd website/
+ 1125  mkdir git
+ 1126  cd git/
+ 1127  git init
+ 1128  git config --global init.defaultBranch main
+ 1129  git init
+ 1130  ls
+ 1131  git branch
+ 1132  git branch switch 
+ 1133  git branch main
+ 1134  git switch main
+ 1135  git 
+ 1136  git branch
+ 1137  ls
+ 1138  git add .
+ 1139  git commit - m "Initial commit"
+ 1140  git commit -m "Initial commit"
+ 1141  git branch 
+ 1142  git branch main
+ 1143  ls
+ 1144  git branch
+ 1145  cd ..
+ 1146  ls
+ 1147  mkdir git
+ 1148  cd git/
+ 1149  git init
+ 1150  git branch
+ 1151  git add .
+ 1152  git commit -m "Initial commit"
+ 1153  ls
+ 1154  git add .
+ 1155  git commit -m "Initial commit"
+ 1156  gh
+ 1157  gh repo create fay-shopify --private --source=. --remote-origin --push
+ 1158  gh repo create fay-shopify --private --source=. --remote=origin --push
+ 1159  ls
+ 1160  cd store-locator/
+ 1161  ls
+ 1162  rm -rf apex-store-locator/
+ 1163  clear
+ 1164  history
+ 1165  clear
+ 1166  shopify app init
+ 1167  cd apex-store-locator/
+ 1168  npm install prisma --save-dev
+ 1169  npm install @prisma/client
+ 1170  npx prisma init
+ 1171  npx prisma migrate dev --name init
+ 1172  npx prisma generate
+ 1173  touch .env
+ 1174  git init
+ 1175  git add .
+ 1176  git commit -m "Initial commit"
+ 1177  gh repo create shopify-remix-render --private --source=. --remote=origin --push
+ 1178  git add .
+ 1179  git commit -m "fix: use relative imports instead of ~ for Render"
+ 1180  git push
+ 1181  cd app/routes/
+ 1182  touch app.my-page.jsx
+ 1183  git add .
+ 1184  git commit -m "added custom page"
+ 1185  git push
+ 1186  git add .
+ 1187  git commit -m "added custom page"
+ 1188  git push
+ 1189  cd ../..
+ 1190  cd ..
+ 1191  ls
+ 1192  rm -rf apex-store-locator/
+ 1193  clear
+ 1194  shopify app create node   --name store-locator   --template remix   --css tailwind   --package-manager npm
+ 1195  shopify app init
+ 1196  cd apex-store-locator/
+ 1197  npm install prisma --save-dev
+ 1198  npx prisma init --datasource-provider sqlite
+ 1199  npx prisma generate
+ 1200  git init
+ 1201  git add .
+ 1202  git commit -m "Initial Remix + Shopify + Prisma scaffold"
+ 1203  gh repo create apex-store-locator --private --source=. --push
+ 1204  cd ..
+ 1205  rm -rf apex-store-locator/
+ 1206  clear
+ 1207  shopify app init
+ 1208  cd apex-store-locator/
+ 1209  npm install
+ 1210  touch .env
+ 1211  code .env
+ 1212  npx prisma migrate dev --name add_user_model 
+ 1213  npx prisma generate
+ 1214  npm run dev   
+ 1215  git add .
+ 1216  git commit -m "init store-locator-remix"
+ 1217  git push origin main
+ 1218  gh repo create storelocator-remix-render --private --source=. --remote=origin --push
+ 1219  git add .
+ 1220  git commit -m "init store-locator-remix"
+ 1221  git push
+ 1222  git add .
+ 1223  git commit "create hello page"
+ 1224  git commit -m "create hello page"
+ 1225  git push
+ 1226  shopify generate page store-locator
+ 1227  shopify init
+ 1228  shopify app generate extension
+ 1229  shopify generate page store-locator
+ 1230  hydrogen generate route store-locator
+ 1231  sudo apt install hydrogen
+ 1232  clear
+ 1233  hydrogen generate route store-locator
+ 1234  sudo apt uninstall hydrogen
+ 1235  sudo apt install -u hydrogen
+ 1236  sudo apt remove -u hydrogen
+ 1237  sudo apt remove hydrogen
+ 1238  clear
+ 1239  npm install -g @shopify/cli@latest
+ 1240  docker ps
+ 1241  docker build -t jewelry-try-on-app .
+ 1242  touch .env
+ 1243  docker buildx create --use
+ 1244  docker ls
+ 1245  docker -ls
+ 1246  docker --ls
+ 1247  docker ps
+ 1248  docker buildx create --use
+ 1249  docker build -t jewelry-try-on-app .
+ 1250  clear
+ 1251  ls
+ 1252  code Dockerfile 
+ 1253  docker build   --build-arg SHOPIFY_API_KEY=a8129dec3bb990b1e6cb094a911589ab   -t jewelry-try-on-app .
+ 1254  cd web/frontend/
+ 1255  npm run build
+ 1256  npm run build --build-arg SHOPIFY_API_KEY=a8129dec3bb990b1e6cb094a911589ab
+ 1257  npm run build
+ 1258  SHOPIFY_API_KEY=a8129dec3bb990b1e6cb094a911589ab npm run build
+ 1259  cd ..
+ 1260  cd..
+ 1261  cd ..
+ 1262  git add .
+ 1263  git commit -m "fix: install @google/model-viewer in frontend and update Vite config"
+ 1264  git push
+ 1265  tree
+ 1266  clear
+ 1267  cd web/
+ 1268  ls
+ 1269  tree
+ 1270  cd frontend/
+ 1271  npm install @google/model-viewer --save
+ 1272  cd ..
+ 1273  touch shopify.web.toml
+ 1274  cd Web
+ 1275  cd ..
+ 1276  git add .
+ 1277  git commit -m "chore: bundle model-viewer, default to API 2025-04, ensure shop param"
+ 1278  git push origin main
+ 1279  cd web/frontend/
+ 1280  npm install
+ 1281  git add .
+ 1282  git commit -m "chore: bundle model-viewer, default to API 2025-04, ensure shop param"
+ 1283  git push origin main
+ 1284  git add .
+ 1285  git commit -m "chore: bundle model-viewer, default to API 2025-04, ensure shop param"
+ 1286  git push origin main
+ 1287  npm install react-router-dom
+ 1288  cd .
+ 1289  cd ..
+ 1290  git add .
+ 1291  git remove .
+ 1292  git add .
+ 1293  git commit -m "chore: bundle model-viewer, default to API 2025-04, ensure shop param"
+ 1294  cd Web/frontend
+ 1295  npm install
+ 1296  npm run build
+ 1297  cd Web
+ 1298  git add frontend/package.json frontend/vite.config.js
+ 1299  git commit -m "fix: install react-router-dom & bundle it in Vite"
+ 1300  git push origin main
+ 1301  cd Web/frontend
+ 1302  cd web/frontend/
+ 1303  npm install react-i18next i18next
+ 1304  npm install
+ 1305  npm run build
+ 1306  cd ..
+ 1307  git add .
+ 1308  git commit -m "fix: add react-i18next & i18next, bundle in Vite"
+ 1309  git push origin main
+ 1310  docker ps
+ 1311  docker build -t jewelry-try-on-app .
+ 1312  docker build   --build-arg SHOPIFY_API_KEY=a8129dec3bb990b1e6cb094a911589ab   -t jewelry-try-on-app .
+ 1313  cd web/frontend/
+ 1314  npm install react-router-dom@6.14.2
+ 1315  docker build -t jewelry-try-on-app .
+ 1316  cd ..
+ 1317  docker build -t jewelry-try-on-app .
+ 1318  cat <<EOF > .env
+SHOPIFY_API_KEY=a8129dec3bb990b1e6cb094a911589ab
+SHOPIFY_API_SECRET=7745ede55f1aa73bab9180c34d7eca47
+SCOPES=read_products,write_products
+HOST=https://localhost:3000
+SHOPIFY_API_VERSION=2025-04
+EOF
+
+ 1319  docker run --rm -p 3000:3000   --env-file .env   jewelry-try-on-app
+ 1320  git add .
+ 1321  git commit -m "fix: add react-i18next & i18next, bundle in Vite"
+ 1322  git push origin main
+ 1323  docker ps
+ 1324  docker build -t jewelry-try-on-app .
+ 1325  npm install -g npm@11.4.1
+ 1326  docker build -t jewelry-try-on-app .
+ 1327  cd web/frontend/
+ 1328  npm install @shopify/i18next-shopify
+ 1329  git add .
+ 1330  git commit -m "feat: add @shopify/i18next-shopify and bundle in Vite"
+ 1331  git push
+ 1332  docker build -t jewelry-try-on-app .
+ 1333  cd ..
+ 1334  docker build -t jewelry-try-on-app .
+ 1335  docker ps
+ 1336  cat <<EOF > .env
+SHOPIFY_API_KEY=a8129dec3bb990b1e6cb094a911589ab
+SHOPIFY_API_SECRET=7745ede55f1aa73bab9180c34d7eca47
+SCOPES=read_products,write_products
+HOST=https://localhost:3000
+SHOPIFY_API_VERSION=2025-04
+EOF
+
+ 1337  docker run --rm -p 3000:3000 --env-file .env jewelry-try-on-app
+ 1338  clear
+ 1339  git add .
+ 1340  git commit -m "feat: add @shopify/i18next-shopify and bundle in Vite"
+ 1341  git push
+ 1342  cd ..
+ 1343  rm -rf jewelry-try-on-app/
+ 1344  clear
+ 1345  npm init @shopify/app@latest -- --template=node
+ 1346  cd jewelry-try-on-app/
+ 1347  npm install @google/model-viewer
+ 1348  sudo apt get update
+ 1349  sudo apt update
+ 1350  sudo apt upgrade 
+ 1351  clear
+ 1352  mkdir -p public/models
+ 1353  clear
+ 1354  cd web/
+ 1355  tree
+ 1356  cd ..
+ 1357  ls
+ 1358  touch .env
+ 1359  tree >> tree.txt
+ 1360  ls -ltr
+ 1361  cd web/
+ 1362  tree > webTree
+ 1363  cd ..
+ 1364  clear
+ 1365  npm run dev       
+ 1366  npm run dev
+ 1367  ls -R web
+ 1368  cd web/frontend/
+ 1369  npm install @google/model-viewer
+ 1370  ls
+ 1371  cd pages/
+ 1372  touch try-on.jsx
+ 1373  cd ..
+ 1374  cd..
+ 1375  clear
+ 1376  docker build -t jewel-tryon-app .
+ 1377  cd ..
+ 1378  clear
+ 1379  docker build -t jewel-tryon-app .
+ 1380  npm install -g npm@11.4.1
+ 1381  docker build -t jewel-tryon-app .
+ 1382  docker run -p 3000:3000 --env-file .env jewel-tryon-app
+ 1383  docker run -p 3000:3000 --env-file .env jewelry-try-on-app
+ 1384  clear
+ 1385  history >> history
