@@ -10,7 +10,7 @@
     "info": "shopify app info",
     "generate": "shopify app generate",
     "deploy": "shopify app deploy",
-    "start": "node index.js"
+    "start": "node web/index.js"
   },
   "dependencies": {
     "@google/model-viewer": "^4.1.0"
